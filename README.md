@@ -1,18 +1,64 @@
-# 💫 About Me:
-🧑‍💻 Back-End C# .NET Developer with 2 years of proven experience designing, building, and maintaining full‑stack desktop applications using Windows Forms, .NET Framework, ADO.NET, and SQL Server. Expert in applying three‑tier architecture to deliver scalable, maintainable, and high‑performance business systems.<br><br>📌 Key Achievements<br><br>✅ Built and deployed a production driver’s license issuance platform with secure data handling and streamlined workflows.<br><br>🏗️ Architected and implemented a three‑tier solution that separates UI, business logic, and data layers, reducing coupling and accelerating delivery.<br><br>🚀 Improved database performance by optimizing T‑SQL and ADO.NET patterns, increasing responsiveness and reliability.<br><br>🎓 Earned 22 technical certifications from ProgrammingAdvices across C#, .NET  Framework, ADO.NET, SQL Server, and software architecture.<br><br>💡 Core Strengths<br><br>🔧 Back‑end system design and business logic implementation<br><br>🗄️ Database design, T‑SQL optimization, and ADO.NET proficiency<br><br>🪟 Desktop application development with Windows Forms<br><br>🧩 Three‑tier architecture, maintainability, and performance tuning<br><br>🤝 Rapid learning and collaboration on cross‑functional teams<br><br>🎯 Growth Focus<br> <br>🌐 Currently learning front‑end web development (HTML, CSS, JavaScript and modern frameworks) to connect front‑end UIs with my back‑end via RESTful APIs.<br><br>🔗 Planning to design and implement secure, versioned REST APIs to enable web clients to consume existing back‑end services and desktop components.<br><br>📈 Goal: transition into full‑stack projects that combine responsive web front‑ends with robust .NET back‑ends for end‑to‑end solutions.<br><br>📬 Open To<br><br>🔎 Back‑end roles focused on performance and scalability<br><br>🤝 Full‑stack collaborations where I’ll contribute back‑end expertise and evolving front‑end skills<br><br>📈 Opportunities to build REST API driven applications within the .NET ecosystem
+  <p align="center">
+    <a href="https://gh-most-followed.pages.dev/egypt">
+      <img src="https://img.shields.io/badge/18ᵗʰ Most Followed User 🇪🇬-202525?style=flat-square&logo=github" style="height:32px; object-fit:contain;"/></a> &nbsp;
+    <a href="https://committers.top/egypt">
+      <img src="https://img.shields.io/badge/15ᵗʰ Most Active User 🇪🇬-202525?style=flat-square&logo=github" style="height:32px; object-fit:contain;"/></a>
+  </p>
 
+<h1 align="center">Hi, I'm Mohammed Khaled</h1>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammedalkwehe) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohammedalkwehe) 
+<h2 align="center">Software Engineer | .NET Developer</h2>
+<br>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=FF3366) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=hmada1014&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=hmada1014&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hmada1014&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+  <p align="center">
+    <a href=""> <!-- Google Me -->
+      <img src="https://readme-typing-svg.herokuapp.com/?lines=Follow%20to%20get%20New%20Updates;Check%20my%20Popular%20Repositories&font=Bold%20Code&center=true&color=30F050&pause=2000"></a>
+  </p>
 
----
-[![](https://visitcount.itsvg.in/api?id=hmada1014&icon=0&color=0)](https://visitcount.itsvg.in)
+  <p>
+    <a href=""> <!-- Google Me -->
+      <img src="https://komarev.com/ghpvc/?username=a-hemeda&style=flat&color=3010A0" style="height:26px; object-fit:contain;"/></a>
+  </p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+  <p>
+    <a href="https://drive.google.com/file/d/1wzWJ7UO3DAb5T4AQj4xOJgDfRCKRC9ka/view?usp=sharing">
+      <img src="https://img.shields.io/badge/My CV-004520?style=flat-square&logo=googledrive&logoColor=white" style="height:32px; object-fit:contain;"/></a> &nbsp;
+    <a href="">
+      <img src="https://img.shields.io/badge/My Portfolio-00307A?style=flat-square&logo=linkfire&logoColor=white" style="height:32px; object-fit:contain;"/></a>
+  </p>
+
+  #### `📤 Connect & Competitive Programming`
+  <p align="left">
+    <a href="mailto:mohammedalkwehe@gmail.com">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" height="43"/></a> &nbsp;
+    <a href="https://www.linkedin.com/in/mohammedalkwehe/">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="48"/></a> &nbsp;
+    <a href="">
+      <img src="https://marketplace.canva.com/Vmp9Y/MAEvzQVmp9Y/1/tl/canva-whatsapp-status-icon-MAEvzQVmp9Y.png" height="48"/></a> &nbsp;
+    <a href="">
+      <img src="https://cdn.iconscout.com/icon/free/png-256/free-code-forces-logo-icon-svg-download-png-2944796.png" height="48"/></a> &nbsp;
+    <a href="">
+      <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" height="48"/></a>
+  </p>
+
+#### `🛠️ Top Technical Skills`
+
+  <p align="left">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,cs,dotnet,postman,swagger,sqlserver,redis,git,html,css,js,docker"/>
+  </p>
+
+#### `🏆 GitHub Trophies`
+  <p align="left">
+  
+  ![trophy](https://github-profile-trophy-ahmed.vercel.app/?username=hmada1014&theme=onestar&no-bg=true&no-frame=true&row=1&column=7)
+  </div>
+<br>
+
+  <p align="left">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=a-hemeda&layout=compact&langs_count=6&theme=highcontrast" height="125"/> &nbsp;
+    <img src="https://streak-stats.demolab.com/?user=a-hemeda&theme=highcontrast" height="125"/>
+  </p>
+
+  <p align="left">
+    <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+  </p>
