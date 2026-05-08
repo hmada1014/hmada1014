@@ -4,33 +4,33 @@
 <br>
 
   <p align="center">
-    <a href=""> <!-- Google Me -->
+    <a href="" target="_blank"> <!-- Google Me -->
       <img src="https://readme-typing-svg.herokuapp.com/?lines=Follow%20to%20get%20New%20Updates;Check%20my%20Popular%20Repositories&font=Bold%20Code&center=true&color=30F050&pause=2000"></a>
   </p>
 
   <p>
-    <a href=""> <!-- Google Me -->
+    <a href="" target="_blank"> <!-- Google Me -->
       <img src="https://komarev.com/ghpvc/?username=a-hemeda&style=flat&color=3010A0" style="height:26px; object-fit:contain;"/></a>
   </p>
 
   <p>
-    <a href="https://drive.google.com/file/d/1wzWJ7UO3DAb5T4AQj4xOJgDfRCKRC9ka/view?usp=sharing">
+    <a target="_blank" href="https://drive.google.com/file/d/1wzWJ7UO3DAb5T4AQj4xOJgDfRCKRC9ka/view?usp=sharing">
       <img src="https://img.shields.io/badge/My CV-004520?style=flat-square&logo=googledrive&logoColor=white" style="height:32px; object-fit:contain;"/></a> &nbsp;
-    <a href="">
+    <a  target="_blank"href="">
       <img src="https://img.shields.io/badge/My Portfolio-00307A?style=flat-square&logo=linkfire&logoColor=white" style="height:32px; object-fit:contain;"/></a>
   </p>
 
   #### `📤 Connect & Competitive Programming`
   <p align="left">
-    <a href="mailto:mohammedalkwehe@gmail.com">
+    <a target="_blank" href="mailto:mohammedalkwehe@gmail.com">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" height="43"/></a> &nbsp;
-    <a href="https://www.linkedin.com/in/m-alkwehe" target="_blank">
+    <a  target="_blank" href="https://www.linkedin.com/in/m-alkwehe" >
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="48"/></a> &nbsp;
     <a href="" target="_blank">
       <img src="https://marketplace.canva.com/Vmp9Y/MAEvzQVmp9Y/1/tl/canva-whatsapp-status-icon-MAEvzQVmp9Y.png" height="48"/></a> &nbsp;
-    <a href="">
+    <a href="" target="_blank">
       <img src="https://cdn.iconscout.com/icon/free/png-256/free-code-forces-logo-icon-svg-download-png-2944796.png" height="48"/></a> &nbsp;
-    <a href="">
+    <a  target="_blank" href="">
       <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" height="48"/></a>
   </p>
 
