@@ -16,7 +16,7 @@
   <p>
     <a target="_blank" href="https://drive.google.com/file/d/1wzWJ7UO3DAb5T4AQj4xOJgDfRCKRC9ka/view?usp=sharing">
       <img src="https://img.shields.io/badge/My CV-004520?style=flat-square&logo=googledrive&logoColor=white" style="height:32px; object-fit:contain;"/></a> &nbsp;
-    <a  target="_blank"href="">
+    <a  target="_blank"href="https://hmada1014.github.io/portfolio/">
       <img src="https://img.shields.io/badge/My Portfolio-00307A?style=flat-square&logo=linkfire&logoColor=white" style="height:32px; object-fit:contain;"/></a>
   </p>
 
